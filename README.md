@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Web Developer in Programming Hero Course**
 
-- 👨‍💻 All of my projects are available at [https://mizanurict.github.io/mizanur-portfolio](https://mizanurict.github.io/mizanur-portfolio)
-
+- 👨‍💻 All of my projects are available at https://mizanurict.github.io/mizanur/
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mizanurictiu@gmail.com**
